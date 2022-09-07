@@ -1,4 +1,3 @@
-import { Children } from 'react';
 import s from '../Section/Section.module.css';
 import PropTypes from 'prop-types';
 
